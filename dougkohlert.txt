@@ -7,3 +7,5 @@ more line changes
 more changes to this file.
 
 still more
+
+adding more lines after staged
